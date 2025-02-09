@@ -26,10 +26,10 @@ My objective was to quantitatively assess Telangana's growth across various sect
 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
 • Power BI for Data Visualization
 • Excel for Data Cleaning 
-##### Power Bi Dashboard
+##### Data Model
 ![Screenshot 2025-02-09 121248](https://github.com/user-attachments/assets/5f53898e-1784-4cbf-8484-ae88f1d48b73)
+
+### Power Bi Dashboard
 ![Screenshot 2025-02-09 121150](https://github.com/user-attachments/assets/c5843dbd-49ff-494e-afc3-8a600026058e)
 ![Screenshot 2025-02-09 121130](https://github.com/user-attachments/assets/1b913ff4-2908-418b-bad5-e7bd1fff9a3a)
-
-#### Data Model
 ![Screenshot 2025-02-09 121056](https://github.com/user-attachments/assets/6161eb5c-f263-4922-89eb-9a0cc56664fc)
